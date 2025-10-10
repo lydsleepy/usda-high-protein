@@ -1,0 +1,251 @@
+fdc_id,description,brand_owner,data_type,food_category,calories,protein_g,fat_g,carbs_g,sugar_g,fiber_g,sodium_mg,cholesterol_mg,saturated_fat_g,protein_per_calorie
+582984,PROTEIN BARS,PROTEIN ONE,Branded,"Snack, Energy & Granola Bars",333.0,37.0,9.26,40.7,,14.8,500.0,0.0,5.56,0.111
+2509995,PROTEIN BARS,Sundia Corporation,Branded,"Snack, Energy & Granola Bars",367.0,25.0,10.0,50.0,,21.7,317.0,0.0,5.0,0.068
+582982,PROTEIN BARS,PROTEIN ONE,Branded,"Snack, Energy & Granola Bars",333.0,37.0,7.41,40.7,,14.8,463.0,0.0,7.41,0.111
+582986,PROTEIN BARS,PROTEIN ONE,Branded,"Snack, Energy & Granola Bars",333.0,37.0,7.41,40.7,,14.8,463.0,0.0,7.41,0.111
+2708122,Nutrition bar (Snickers Marathon Protein Bar),N/A,Survey (FNDDS),Nutrition bars,415.0,25.0,12.5,50.5,,12.5,238.0,6.0,6.25,0.06
+2708124,Nutrition bar (South Beach Living High Protein Bar),N/A,Survey (FNDDS),Nutrition bars,412.0,30.34,15.17,38.4,,7.3,436.0,3.0,3.384,0.074
+2708118,Nutrition bar (Clif Bar),N/A,Survey (FNDDS),Nutrition bars,346.0,14.71,5.88,65.44,,7.4,195.0,0.0,1.471,0.043
+2708117,Nutrition bar (Balance Original Bar),N/A,Survey (FNDDS),Nutrition bars,415.0,28.0,12.0,48.73,,3.1,253.0,1.0,1.149,0.067
+2707641,"Bread, high protein, toasted",N/A,Survey (FNDDS),Yeast breads,269.0,13.3,2.42,48.13,,3.3,444.0,0.0,0.365,0.049
+2707451,"Textured vegetable protein, dry",N/A,Survey (FNDDS),Soy and meat-alternative products,366.0,51.1,3.33,32.9,,17.5,2.0,0.0,0.136,0.14
+2708127,"Nutrition bar or meal replacement bar, NFS",N/A,Survey (FNDDS),Nutrition bars,386.0,22.36,9.94,55.22,,4.7,320.0,4.0,2.985,0.058
+2710745,"Nutritional powder mix, protein, NFS",N/A,Survey (FNDDS),Protein and nutritional powders,352.0,78.13,1.56,6.25,,3.1,156.0,16.0,0.781,0.222
+2708095,Cereal or granola bar (Quaker Chewy Granola Bar),N/A,Survey (FNDDS),Cereal bars,418.0,5.65,16.57,70.2,,3.8,291.0,0.0,6.061,0.014
+2708121,Nutrition bar (Slim Fast Original Meal Bar),N/A,Survey (FNDDS),Nutrition bars,386.0,16.19,8.92,60.21,,5.1,253.0,7.0,5.36,0.042
+2708129,Baby Toddler bar,N/A,Survey (FNDDS),Baby food: snacks and sweets,344.0,5.43,5.3,68.63,,1.7,157.0,1.0,0.453,0.016
+2707908,"Cookie, bar, with chocolate",N/A,Survey (FNDDS),Cookies and brownies,492.0,5.1,24.72,65.36,,2.0,311.0,0.0,8.091,0.01
+2707929,"Cookie, fig bar",N/A,Survey (FNDDS),Cookies and brownies,348.0,3.7,7.3,70.9,,4.6,350.0,0.0,1.123,0.011
+2708120,Nutrition bar (PowerBar),N/A,Survey (FNDDS),Nutrition bars,363.0,14.15,3.11,69.63,,5.7,308.0,0.0,1.32,0.039
+2710147,"Fruit and vegetable smoothie, added protein",N/A,Survey (FNDDS),Smoothies and grain drinks,86.0,7.49,0.78,12.24,,1.1,36.0,3.0,0.338,0.087
+2708087,Cereal or granola bar (Kellogg's Special K bar),N/A,Survey (FNDDS),Cereal bars,409.0,9.09,9.09,72.73,,1.8,428.0,0.0,0.0,0.022
+2708090,Cereal or granola bar (KIND Fruit and Nut Bar),N/A,Survey (FNDDS),Cereal bars,502.0,13.89,32.28,43.74,,5.8,45.0,0.0,3.826,0.028
+2708123,Nutrition bar (South Beach Living Meal Bar),N/A,Survey (FNDDS),Nutrition bars,386.0,16.19,8.92,60.21,,5.1,253.0,7.0,5.36,0.042
+2710744,"Nutritional powder mix, protein, light, NFS",N/A,Survey (FNDDS),Protein and nutritional powders,396.0,50.0,12.0,22.0,,2.0,250.0,10.0,1.087,0.126
+2710741,"Nutritional powder mix, high protein, NFS",N/A,Survey (FNDDS),Protein and nutritional powders,392.0,53.57,10.71,20.38,,0.0,1214.0,0.0,0.0,0.137
+2708114,"Breakfast bar, NFS",N/A,Survey (FNDDS),Cereal bars,376.0,4.4,7.5,72.8,,2.1,337.0,0.0,1.5,0.012
+2708100,"Snack bar, oatmeal",N/A,Survey (FNDDS),Cereal bars,389.0,6.67,6.67,75.47,,4.6,367.0,36.0,1.299,0.017
+2707935,"Cookie, lemon bar",N/A,Survey (FNDDS),Cookies and brownies,437.0,5.13,18.94,62.65,,0.8,224.0,75.0,3.753,0.012
+2707974,"Cookie, toffee bar",N/A,Survey (FNDDS),Cookies and brownies,492.0,5.1,24.72,65.36,,2.0,311.0,0.0,8.091,0.01
+2708083,Cereal or granola bar (Kellogg's Nutri-Grain Cereal Bar),N/A,Survey (FNDDS),Cereal bars,365.0,4.22,8.67,67.61,,3.0,354.0,0.0,1.442,0.012
+2708084,Cereal or granola bar (Kellogg's Nutri-Grain Yogurt Bar),N/A,Survey (FNDDS),Cereal bars,365.0,4.22,8.67,67.61,,3.0,354.0,0.0,1.442,0.012
+2708098,Cereal or granola bar (Quaker Chewy Dipps Granola Bar),N/A,Survey (FNDDS),Cereal bars,480.0,7.52,20.42,64.96,,3.2,269.0,0.0,8.693,0.016
+2708096,Cereal or granola bar (Quaker Chewy 90 Calorie Granola Bar),N/A,Survey (FNDDS),Cereal bars,408.0,4.17,8.33,79.17,,4.2,313.0,0.0,2.083,0.01
+2710733,"Nutritional powder mix, high protein (Herbalife)",N/A,Survey (FNDDS),Protein and nutritional powders,392.0,53.57,10.71,20.38,,0.0,1214.0,0.0,0.0,0.137
+2705641,"Ice cream bar, chocolate",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,329.0,4.41,23.89,25.17,,1.5,67.0,27.0,13.099,0.013
+2710743,"Nutritional powder mix, protein, soy based, NFS",N/A,Survey (FNDDS),Protein and nutritional powders,388.0,55.56,5.56,28.89,,6.7,733.0,0.0,1.111,0.143
+2708101,"Cereal or Granola bar, NFS",N/A,Survey (FNDDS),Cereal bars,471.0,10.1,19.8,64.4,,5.3,294.0,0.0,2.37,0.021
+2709312,Frozen fruit juice bar,N/A,Survey (FNDDS),"Gelatins, ices, sorbets",106.0,0.81,0.06,25.4,,0.5,6.0,0.0,0.0,0.008
+2708094,Cereal or granola bar (General Mills Nature Valley Crunchy Granola Bar),N/A,Survey (FNDDS),Cereal bars,471.0,10.1,19.8,64.4,,5.3,294.0,0.0,2.37,0.021
+2708082,Cereal or granola bar (General Mills Fiber One Chewy Bar),N/A,Survey (FNDDS),Cereal bars,389.0,5.0,10.0,69.82,,22.5,237.0,0.0,3.397,0.013
+2708085,Cereal or granola bar (Kellogg's Nutri-Grain Fruit and Nut Bar),N/A,Survey (FNDDS),Cereal bars,403.0,9.38,10.93,66.72,,7.5,195.0,0.0,1.93,0.023
+2708097,Cereal or granola bar (Quaker Chewy 25% Less Sugar Granola Bar),N/A,Survey (FNDDS),Cereal bars,412.0,5.55,12.5,69.4,,3.1,312.0,0.0,5.008,0.013
+2708103,"Cereal or granola bar, nonfat",N/A,Survey (FNDDS),Cereal bars,342.0,5.9,0.9,77.6,,7.4,16.0,0.0,0.2,0.017
+2705640,Ice cream candy bar,N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,323.0,4.4,20.2,30.9,,0.6,92.0,1.0,12.658,0.014
+2705457,"Frozen yogurt bar, vanilla",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,127.0,3.0,3.6,21.6,,0.0,63.0,13.0,2.326,0.024
+2705515,"Fruit smoothie, with whole fruit and dairy, added protein",N/A,Survey (FNDDS),Smoothies and grain drinks,79.0,7.35,1.24,10.04,,1.1,40.0,5.0,0.669,0.093
+2708086,Milk 'n Cereal bar,N/A,Survey (FNDDS),Cereal bars,413.0,6.47,10.98,72.05,,0.4,319.0,6.0,9.114,0.016
+2708125,Nutrition bar (Tiger's Milk),N/A,Survey (FNDDS),Nutrition bars,387.0,16.8,14.29,56.46,,2.3,168.0,2.0,2.073,0.043
+2707928,"Cookie, fruit-filled bar",N/A,Survey (FNDDS),Cookies and brownies,348.0,3.7,7.3,70.9,,4.6,350.0,0.0,1.123,0.011
+2705458,"Frozen yogurt bar, chocolate",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,131.0,3.0,3.6,21.6,,2.3,63.0,13.0,2.272,0.023
+2705638,"Ice cream bar, vanilla",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,358.0,2.11,25.26,37.12,,1.1,84.0,16.0,17.895,0.006
+2035482,GREEK YOGURT,"Ocean Spray Cranberries, Inc.",Branded,"Popcorn, Peanuts, Seeds & Related Snacks",467.0,3.33,20.0,70.0,,3.3,33.0,0.0,16.7,0.007
+373595,GREEK YOGURT,TRADER JOE'S,Branded,Yogurt,132.0,4.85,7.05,12.3,,0.0,59.0,20.0,3.52,0.037
+2038865,GREEK YOGURT,"Chobani, Inc.",Branded,Yogurt,80.0,8.67,0.0,10.7,,0.0,43.0,3.0,0.0,0.108
+2475934,GREEK YOGURT,"Cafe Hon, Inc.",Branded,Yogurt,65.0,11.8,0.0,4.12,,0.0,44.0,0.0,0.0,0.182
+2038866,GREEK YOGURT,"Chobani, Inc.",Branded,Yogurt,93.0,7.33,2.0,12.0,,0.7,37.0,7.0,1.33,0.079
+468388,GREEK YOGURT,FRESH & EASY,Branded,Yogurt,73.0,8.0,0.0,10.0,,0.0,33.0,3.0,0.0,0.11
+464109,GREEK YOGURT,GREEN MOUNTAIN CREAMERY,Branded,Yogurt,80.0,8.0,0.0,12.0,,0.0,33.0,3.0,0.0,0.1
+2098882,GREEK YOGURT,Hain Refrigerated Foods Inc.,Branded,Honey,128.0,3.52,6.17,15.0,,0.0,57.0,22.0,3.96,0.028
+2067281,GREEK YOGURT,"Chobani, Inc.",Branded,Yogurt,87.0,8.0,0.0,12.7,,0.7,40.0,3.0,0.0,0.092
+2067023,GREEK YOGURT,Karoun Dairies Inc.,Branded,Yogurt,153.0,3.33,10.0,12.7,,0.0,40.0,33.0,6.67,0.022
+2705441,"Yogurt, Greek, with oats",N/A,Survey (FNDDS),"Yogurt, Greek",149.0,9.22,3.67,20.02,,1.5,58.0,6.0,0.838,0.062
+2705432,"Yogurt, Greek, nonfat milk, fruit",N/A,Survey (FNDDS),"Yogurt, Greek",83.0,9.21,0.34,10.81,,0.1,36.0,4.0,0.097,0.111
+2705424,"Yogurt, Greek, nonfat milk, plain",N/A,Survey (FNDDS),"Yogurt, Greek",59.0,10.3,0.37,3.64,,0.0,36.0,5.0,0.108,0.175
+2705430,"Yogurt, Greek, whole milk, fruit",N/A,Survey (FNDDS),"Yogurt, Greek",114.0,7.85,3.91,11.8,,0.1,34.0,15.0,2.128,0.069
+2705422,"Yogurt, Greek, whole milk, plain",N/A,Survey (FNDDS),"Yogurt, Greek",94.0,8.78,4.39,4.75,,0.0,34.0,17.0,2.39,0.093
+2705431,"Yogurt, Greek, low fat milk, fruit",N/A,Survey (FNDDS),"Yogurt, Greek",91.0,9.11,1.33,10.78,,0.1,35.0,7.0,0.715,0.1
+2705423,"Yogurt, Greek, low fat milk, plain",N/A,Survey (FNDDS),"Yogurt, Greek",67.0,10.2,1.36,3.6,,0.0,36.0,8.0,0.726,0.152
+2705415,"Yogurt, Greek, NS as to type of milk or flavor",N/A,Survey (FNDDS),"Yogurt, Greek",91.0,9.11,1.33,10.78,,0.1,35.0,7.0,0.715,0.1
+2705429,"Yogurt, Greek, NS as to type of milk, fruit",N/A,Survey (FNDDS),"Yogurt, Greek",91.0,9.11,1.33,10.78,,0.1,35.0,7.0,0.715,0.1
+2705421,"Yogurt, Greek, NS as to type of milk, plain",N/A,Survey (FNDDS),"Yogurt, Greek",67.0,10.2,1.36,3.6,,0.0,36.0,8.0,0.726,0.152
+2705440,"Yogurt, Greek, nonfat milk, flavors other than fruit",N/A,Survey (FNDDS),"Yogurt, Greek",73.0,9.17,0.34,8.22,,0.0,32.0,4.0,0.096,0.126
+2705438,"Yogurt, Greek, whole milk, flavors other than fruit",N/A,Survey (FNDDS),"Yogurt, Greek",104.0,7.81,3.92,9.21,,0.0,31.0,15.0,2.127,0.075
+2705439,"Yogurt, Greek, low fat milk, flavors other than fruit",N/A,Survey (FNDDS),"Yogurt, Greek",81.0,9.07,1.34,8.18,,0.0,32.0,7.0,0.714,0.112
+2705437,"Yogurt, Greek, NS as to type of milk, flavors other than fruit",N/A,Survey (FNDDS),"Yogurt, Greek",81.0,9.07,1.34,8.18,,0.0,32.0,7.0,0.714,0.112
+2709830,"Greek Salad, no dressing",N/A,Survey (FNDDS),Vegetable dishes,48.0,2.75,2.26,4.35,,1.5,246.0,6.0,0.859,0.057
+2705443,Yogurt tube,N/A,Survey (FNDDS),"Yogurt, regular",81.0,4.34,1.03,13.68,,0.1,60.0,5.0,0.671,0.054
+2705442,"Yogurt, liquid",N/A,Survey (FNDDS),"Yogurt, regular",74.0,3.65,1.07,12.55,,0.1,53.0,4.0,0.689,0.049
+2705414,"Yogurt, NFS",N/A,Survey (FNDDS),"Yogurt, regular",94.0,6.67,2.87,10.22,,0.1,49.0,11.0,1.626,0.071
+2707444,"Yogurt, soy",N/A,Survey (FNDDS),Plant-based yogurt,90.0,4.83,2.63,12.27,,0.9,30.0,0.0,0.386,0.054
+2705456,Frozen yogurt sandwich,N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,204.0,3.9,6.25,34.38,,0.8,192.0,10.0,2.805,0.019
+2705446,"Ranch dip, yogurt based",N/A,Survey (FNDDS),"Dips, gravies, other sauces",195.0,8.48,16.09,4.13,,0.3,646.0,17.0,3.267,0.043
+2705447,"Spinach dip, yogurt based",N/A,Survey (FNDDS),"Dips, gravies, other sauces",159.0,7.02,12.96,3.59,,0.3,514.0,14.0,2.734,0.044
+2705449,"Vegetable dip, yogurt based",N/A,Survey (FNDDS),"Dips, gravies, other sauces",191.0,8.16,16.03,3.76,,0.3,641.0,16.0,3.232,0.043
+2705444,"Chipotle dip, yogurt based",N/A,Survey (FNDDS),"Dips, gravies, other sauces",189.0,7.93,15.99,3.33,,0.0,636.0,16.0,3.219,0.042
+2705453,"Frozen yogurt, chocolate",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,131.0,3.0,3.6,21.6,,2.3,63.0,13.0,2.272,0.023
+2705451,"Frozen yogurt, NFS",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,127.0,3.0,3.6,21.6,,0.0,63.0,13.0,2.326,0.024
+2705452,"Frozen yogurt, vanilla",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,127.0,3.0,3.6,21.6,,0.0,63.0,13.0,2.326,0.024
+2705450,"Yogurt parfait, with fruit",N/A,Survey (FNDDS),"Yogurt, regular",104.0,5.25,2.18,16.08,,1.3,44.0,4.0,0.608,0.05
+2707570,"Yogurt, almond milk",N/A,Survey (FNDDS),Plant-based yogurt,128.0,3.03,7.03,12.98,,1.5,49.0,0.0,0.531,0.024
+2707569,"Yogurt, coconut milk",N/A,Survey (FNDDS),Plant-based yogurt,108.0,2.37,5.61,12.91,,1.2,41.0,0.0,5.094,0.022
+2705445,"Onion dip, yogurt based",N/A,Survey (FNDDS),"Dips, gravies, other sauces",160.0,6.82,12.91,4.06,,0.2,507.0,14.0,2.726,0.043
+2709381,Baby Toddler yogurt melts,N/A,Survey (FNDDS),Baby food: snacks and sweets,380.0,14.29,4.0,71.82,,2.3,286.0,0.0,2.236,0.038
+2705457,"Frozen yogurt bar, vanilla",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,127.0,3.0,3.6,21.6,,0.0,63.0,13.0,2.326,0.024
+2709356,"Baby Toddler fruit, with yogurt",N/A,Survey (FNDDS),Baby food: mixtures,76.0,1.87,1.83,13.36,,1.1,17.0,5.0,0.911,0.025
+2705464,"Baby Toddler yogurt, plain",N/A,Survey (FNDDS),Baby food: yogurt,78.0,3.82,4.48,5.57,,0.0,42.0,14.0,2.32,0.049
+2705465,"Baby Toddler yogurt, with fruit",N/A,Survey (FNDDS),Baby food: yogurt,98.0,3.48,4.04,11.9,,0.1,41.0,13.0,2.089,0.036
+2705458,"Frozen yogurt bar, chocolate",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,131.0,3.0,3.6,21.6,,2.3,63.0,13.0,2.272,0.023
+2705459,"Frozen yogurt cone, chocolate",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,142.0,3.2,3.73,23.9,,2.3,71.0,12.0,2.23,0.023
+2705460,"Frozen yogurt cone, vanilla",N/A,Survey (FNDDS),Ice cream and frozen dairy desserts,139.0,3.2,3.73,23.9,,0.1,71.0,12.0,2.282,0.023
+2708262,"Pretzels, hard, yogurt coated",N/A,Survey (FNDDS),Pretzels/snack mix,438.0,5.94,12.17,76.56,,1.1,441.0,0.0,9.863,0.014
+2187885,CHICKEN BREAST,"Giant Eagle, Inc.",Branded,"Poultry, Chicken & Turkey",165.0,20.4,8.1,1.06,,0.0,433.0,67.0,4.58,0.124
+2092152,CHICKEN BREAST,"Tyson Foods, Inc.",Branded,"Pepperoni, Salami & Cold Cuts",143.0,14.3,8.93,3.57,,0.0,929.0,54.0,1.79,0.1
+2125872,CHICKEN BREAST,"Jennie-O Turkey Store, Inc.",Branded,Cooked & Prepared,107.0,19.6,1.79,1.79,,0.0,857.0,71.0,0.0,0.183
+2055943,CHICKEN BREAST,Tony Downs Foods Co,Branded,Canned Meat,107.0,21.4,1.79,0.0,,0.0,411.0,45.0,0.0,0.2
+2096160,CHICKEN BREAST,H E Butt Grocery Company,Branded,Other Deli,96.0,11.4,4.16,5.71,,1.3,210.0,32.0,0.65,0.119
+2620738,CHICKEN BREAST,Wakefern Food Corporation,Branded,"Pepperoni, Salami & Cold Cuts",107.0,17.9,2.68,1.79,,0.0,607.0,54.0,0.89,0.167
+1935739,CHICKEN BREAST,The Hillshire Brands Company,Branded,"Pepperoni, Salami & Cold Cuts",92.0,18.4,1.02,2.04,,2.0,959.0,41.0,0.0,0.2
+2279206,CHICKEN BREAST,"Fareway Stores, Inc.",Branded,Canned Meat,107.0,21.4,1.79,0.0,,0.0,429.0,54.0,0.0,0.2
+1648039,CHICKEN BREAST,Oscar Mayer Foods Corp.,Branded,"Pepperoni, Salami & Cold Cuts",107.0,17.9,1.79,3.57,,,786.0,54.0,0.0,0.167
+2066523,CHICKEN BREAST,"Eddy Packing Co., Inc.",Branded,"Poultry, Chicken & Turkey",116.0,17.0,2.23,3.57,,0.0,304.0,49.0,0.45,0.147
+2705964,"Chicken breast, rotisserie, skin not eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",144.0,28.04,3.57,0.0,,0.0,328.0,86.0,0.863,0.195
+2705963,"Chicken breast, rotisserie, skin eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",175.0,26.37,7.67,0.09,,0.0,329.0,90.0,1.958,0.151
+2705971,"Chicken breast, sauteed, skin eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",206.0,25.72,10.62,0.0,,0.0,329.0,95.0,2.509,0.125
+2705972,"Chicken breast, sauteed, skin not eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",176.0,29.62,5.45,0.0,,0.0,353.0,96.0,1.008,0.168
+2705965,"Chicken breast, stewed, skin eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",181.0,24.7,8.28,0.0,,0.0,316.0,92.0,2.152,0.136
+2705966,"Chicken breast, stewed, skin not eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",149.0,27.96,3.26,0.0,,0.0,333.0,91.0,0.7,0.188
+2705969,"Chicken breast, grilled with sauce, skin eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",202.0,21.15,9.15,7.34,,0.2,454.0,78.0,2.105,0.105
+2705970,"Chicken breast, grilled with sauce, skin not eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",178.0,24.33,4.93,7.34,,0.2,473.0,78.0,0.88,0.137
+2705980,"Chicken breast, baked, coated, skin / coating eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",207.0,23.75,9.9,4.01,,0.2,320.0,88.0,2.314,0.115
+2705981,"Chicken breast, baked, coated, skin / coating not eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",176.0,29.62,5.45,0.0,,0.0,353.0,96.0,1.008,0.168
+2705967,"Chicken breast, grilled without sauce, skin eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",206.0,25.72,10.62,0.0,,0.0,329.0,95.0,2.509,0.125
+2705968,"Chicken breast, grilled without sauce, skin not eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",176.0,29.62,5.45,0.0,,0.0,353.0,96.0,1.008,0.168
+2705953,"Chicken breast, NS as to cooking method, skin eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",175.0,26.37,7.67,0.09,,0.0,329.0,90.0,1.958,0.151
+2705954,"Chicken breast, NS as to cooking method, skin not eaten",N/A,Survey (FNDDS),"Chicken, whole pieces",144.0,28.04,3.57,0.0,,0.0,328.0,86.0,0.863,0.195
+2706446,"Stuffed chicken, drumstick or breast, Puerto Rican style",N/A,Survey (FNDDS),Poultry mixed dishes,236.0,28.4,10.54,6.51,,0.3,901.0,167.0,3.477,0.12
+2705957,"Chicken breast, baked or broiled, skin eaten, from pre-cooked",N/A,Survey (FNDDS),"Chicken, whole pieces",175.0,26.37,7.67,0.09,,0.0,329.0,90.0,1.958,0.151
+2705958,"Chicken breast, baked or broiled, skin not eaten, from pre-cooked",N/A,Survey (FNDDS),"Chicken, whole pieces",144.0,28.04,3.57,0.0,,0.0,328.0,86.0,0.863,0.195
+2705955,"Chicken breast, baked, broiled, or roasted, skin eaten, from raw",N/A,Survey (FNDDS),"Chicken, whole pieces",192.0,26.25,8.8,0.0,,0.0,336.0,97.0,2.287,0.137
+2705956,"Chicken breast, baked, broiled, or roasted, skin not eaten, from raw",N/A,Survey (FNDDS),"Chicken, whole pieces",161.0,30.22,3.52,0.0,,0.0,360.0,98.0,0.756,0.188
+2705973,"Chicken breast, fried, coated, skin / coating eaten, from raw",N/A,Survey (FNDDS),"Chicken, whole pieces",243.0,21.46,14.11,6.01,,0.2,299.0,79.0,2.77,0.088
+2705974,"Chicken breast, fried, coated, skin / coating not eaten, from raw",N/A,Survey (FNDDS),"Chicken, whole pieces",176.0,29.62,5.45,0.0,,0.0,353.0,96.0,1.008,0.168
+2705959,"Chicken breast, baked or broiled, skin eaten, from fast food / restaurant",N/A,Survey (FNDDS),"Chicken, whole pieces",206.0,25.67,10.6,0.0,,0.0,406.0,95.0,2.504,0.125
+2705960,"Chicken breast, baked or broiled, skin not eaten, from fast food / restaurant",N/A,Survey (FNDDS),"Chicken, whole pieces",176.0,29.56,5.44,0.0,,0.0,430.0,96.0,1.006,0.168
+2705961,"Chicken breast, baked, broiled, or roasted with marinade, skin eaten, from raw",N/A,Survey (FNDDS),"Chicken, whole pieces",204.0,25.32,10.45,0.31,,0.0,399.0,94.0,2.463,0.124
+2705962,"Chicken breast, baked, broiled, or roasted with marinade, skin not eaten, from raw",N/A,Survey (FNDDS),"Chicken, whole pieces",175.0,29.13,5.38,0.31,,0.0,423.0,94.0,0.993,0.166
+2705975,"Chicken breast, fried, coated, prepared skinless, coating eaten, from raw",N/A,Survey (FNDDS),"Chicken, whole pieces",219.0,24.56,9.99,6.01,,0.2,318.0,80.0,1.576,0.112
+2705976,"Chicken breast, fried, coated, skin / coating eaten, from pre-cooked",N/A,Survey (FNDDS),"Chicken, whole pieces",250.0,20.58,14.79,7.21,,0.3,331.0,76.0,2.82,0.082
+2705977,"Chicken breast, fried, coated, skin / coating not eaten, from pre-cooked",N/A,Survey (FNDDS),"Chicken, whole pieces",176.0,29.62,5.45,0.0,,0.0,353.0,96.0,1.008,0.168
+2705978,"Chicken breast, fried, coated, skin / coating eaten, from fast food / restaurant",N/A,Survey (FNDDS),"Chicken, whole pieces",273.0,19.32,16.95,10.72,,0.3,549.0,75.0,3.573,0.071
+2705979,"Chicken breast, fried, coated, skin / coating not eaten, from fast food / restaurant",N/A,Survey (FNDDS),"Chicken, whole pieces",213.0,22.77,10.78,6.01,,0.2,436.0,79.0,1.907,0.107
+2706087,"Chicken, chicken roll, roasted",N/A,Survey (FNDDS),"Chicken, whole pieces",164.0,26.68,6.33,0.0,,0.0,499.0,112.0,1.573,0.163
+2706443,Orange chicken,N/A,Survey (FNDDS),Stir-fry and soy-based sauce mixtures,262.0,14.46,12.68,22.46,,0.8,553.0,61.0,2.422,0.055
+2706538,Biryani with chicken,N/A,Survey (FNDDS),Rice mixed dishes,104.0,7.15,2.38,13.55,,1.1,161.0,25.0,0.907,0.069
+2707134,"Soup, chicken",N/A,Survey (FNDDS),"Soups, broth-based",40.0,3.44,1.14,4.04,,0.8,249.0,12.0,0.268,0.086
+2706085,Chicken feet,N/A,Survey (FNDDS),"Chicken, whole pieces",215.0,19.4,14.6,0.2,,0.0,67.0,84.0,3.92,0.09
+2706084,Chicken skin,N/A,Survey (FNDDS),"Chicken, whole pieces",450.0,20.19,40.34,0.0,,0.0,387.0,82.0,11.325,0.045
+2706081,"Chicken, back",N/A,Survey (FNDDS),"Chicken, whole pieces",298.0,25.73,20.8,0.0,,0.0,409.0,87.0,5.772,0.086
+2706091,"Chicken, ground",N/A,Survey (FNDDS),"Chicken, whole pieces",201.0,27.14,10.31,0.0,,0.0,400.0,92.0,2.647,0.135
+2706083,"Chicken, tail",N/A,Survey (FNDDS),"Chicken, whole pieces",454.0,20.36,40.68,0.0,,0.0,65.0,83.0,11.42,0.045
+2706797,Almond chicken,N/A,Survey (FNDDS),Stir-fry and soy-based sauce mixtures,195.0,15.66,13.16,4.46,,1.2,330.0,57.0,1.919,0.08
+2287080,COTTAGE CHEESE,"Lala U.S., Inc. ",Branded,Cheese,106.0,11.5,4.42,3.54,,0.0,434.0,22.0,3.1,0.108
+2433763,COTTAGE CHEESE,Belfonte Ice Cream,Branded,Cheese,105.0,11.4,4.39,3.51,,0.0,360.0,22.0,1.32,0.109
+2102157,COTTAGE CHEESE,"Supervalu, Inc.",Branded,Cheese,62.0,10.6,0.0,3.54,,0.0,354.0,4.0,0.0,0.171
+2078618,COTTAGE CHEESE,"Clover Stornetta Farms, Inc.",Branded,Cheese,106.0,12.4,4.42,2.65,,0.0,301.0,18.0,2.65,0.117
+2038049,COTTAGE CHEESE,Dean Foods Company,Branded,Cheese,80.0,10.6,1.33,5.31,,0.0,416.0,9.0,0.88,0.133
+1961804,COTTAGE CHEESE,"Schnuck Markets, Inc.",Branded,Cheese,88.0,9.65,4.39,4.39,,0.0,421.0,22.0,2.63,0.11
+1593065,COTTAGE CHEESE,Kraft Heinz Foods Company,Branded,Cheese,102.0,8.47,5.08,5.93,,0.0,331.0,25.0,2.97,0.083
+1864388,COTTAGE CHEESE,McIlhenny Company,Branded,Cheese,80.0,11.5,0.88,4.42,,0.9,416.0,9.0,0.44,0.144
+2474206,COTTAGE CHEESE,Defense Commissary Agency,Branded,Cheese,97.0,10.6,4.42,4.42,,0.0,363.0,18.0,2.21,0.109
+1920455,COTTAGE CHEESE,"Ahold USA, Inc. ",Branded,Cheese,71.0,10.6,0.0,5.31,,0.0,381.0,4.0,0.0,0.149
+2546921,COTTAGE CHEESE,United World Imports Inc.,Branded,Cheese,95.0,7.5,4.0,6.5,,0.5,230.0,18.0,3.0,0.079
+2117007,COTTAGE CHEESE,Dean Foods Company,Branded,Cheese,88.0,13.3,2.21,3.54,,0.0,319.0,13.0,1.33,0.151
+2117010,COTTAGE CHEESE,Dean Foods Company,Branded,Cheese,88.0,13.3,2.21,3.54,,0.0,319.0,13.0,1.33,0.151
+2117012,COTTAGE CHEESE,Dean Foods Company,Branded,Cheese,88.0,13.3,2.21,3.54,,0.0,319.0,13.0,1.33,0.151
+2025821,COTTAGE CHEESE,The Kroger Co.,Branded,Cheese,97.0,10.6,4.42,4.42,,0.0,336.0,18.0,2.65,0.109
+2658102,COTTAGE CHEESE,"Darigold, Inc. ",Branded,Cheese,80.0,11.5,2.21,4.42,,0.0,381.0,13.0,1.33,0.144
+2658451,COTTAGE CHEESE,Kraft Heinz Foods Company,Branded,Cheese,68.0,8.55,0.0,6.84,,0.0,342.0,4.0,0.0,0.126
+1864360,COTTAGE CHEESE,McIlhenny Company,Branded,Cheese,106.0,11.5,4.42,4.42,,0.0,398.0,22.0,2.65,0.108
+2112025,COTTAGE CHEESE,Super Store Industries,Branded,Cheese,100.0,11.8,5.45,3.64,,0.0,327.0,18.0,3.18,0.118
+2639059,COTTAGE CHEESE,Super Store Industries,Branded,Cheese,100.0,11.8,5.45,3.64,,0.0,327.0,18.0,3.18,0.118
+2021248,COTTAGE CHEESE,"Prairie Farms Dairy, Inc.",Branded,Cheese,70.0,10.5,0.0,5.26,,0.0,412.0,4.0,0.0,0.15
+2471337,COTTAGE CHEESE,"Lala U.S., Inc. ",Branded,Cheese,97.0,10.6,4.42,3.54,,0.0,425.0,18.0,3.1,0.109
+1941011,COTTAGE CHEESE,Titusville Dairy Products Co,Branded,Cheese,97.0,10.6,4.42,4.42,,0.0,425.0,22.0,2.65,0.109
+2100766,COTTAGE CHEESE,Hannaford Bros. Co.,Branded,Cheese,106.0,12.4,3.98,4.42,,0.2,381.0,27.0,2.65,0.117
+2101852,COTTAGE CHEESE,"Winn-Dixie Stores, Inc.",Branded,Cheese,105.0,12.3,4.39,4.39,,0.0,395.0,26.0,2.63,0.117
+2055879,COTTAGE CHEESE,Umpqua Dairy Products Co.,Branded,Cheese,71.0,9.73,1.77,4.42,,0.2,416.0,13.0,1.33,0.137
+2069295,COTTAGE CHEESE,"Lala U.S., Inc. ",Branded,Cheese,106.0,11.5,4.42,3.54,,0.0,434.0,22.0,3.1,0.108
+2078671,COTTAGE CHEESE,Hiland Dairy Inc.,Branded,Cheese,88.0,9.65,4.39,4.39,,0.0,421.0,22.0,2.63,0.11
+2101698,COTTAGE CHEESE,"Clover Stornetta Farms, Inc.",Branded,Cheese,71.0,12.4,0.0,3.54,,0.0,345.0,0.0,0.0,0.175
+2102331,COTTAGE CHEESE,"Winn-Dixie Stores, Inc.",Branded,Cheese,78.0,12.2,1.3,5.22,,0.0,417.0,13.0,0.87,0.156
+2099164,COTTAGE CHEESE,"Winn-Dixie Stores, Inc.",Branded,Cheese,105.0,12.3,4.39,4.39,,0.0,377.0,22.0,2.63,0.117
+2455951,COTTAGE CHEESE,McIlhenny Company,Branded,Cheese,106.0,11.5,4.42,4.42,,0.0,398.0,22.0,2.65,0.108
+2038048,COTTAGE CHEESE,Dean Foods Company,Branded,Cheese,97.0,10.6,4.42,4.42,,0.0,363.0,22.0,2.65,0.109
+2038053,COTTAGE CHEESE,Dean Foods Company,Branded,Cheese,97.0,10.6,4.42,4.42,,0.0,363.0,22.0,2.65,0.109
+2412209,COTTAGE CHEESE,"Coblentz Distributing, Inc.",Branded,Cheese,80.0,10.6,1.33,4.42,,0.0,425.0,9.0,0.88,0.133
+2109742,COTTAGE CHEESE,Super Store Industries,Branded,Cheese,73.0,11.8,0.0,5.45,,0.0,364.0,5.0,0.0,0.162
+2112104,COTTAGE CHEESE,"Clover Stornetta Farms, Inc.",Branded,Cheese,106.0,12.4,4.42,2.65,,0.0,301.0,18.0,2.65,0.117
+2112108,COTTAGE CHEESE,"Clover Stornetta Farms, Inc.",Branded,Cheese,80.0,12.4,1.77,3.54,,0.0,336.0,4.0,1.33,0.155
+2112109,COTTAGE CHEESE,"Clover Stornetta Farms, Inc.",Branded,Cheese,106.0,12.4,4.42,2.65,,0.0,301.0,18.0,2.65,0.117
+1921012,COTTAGE CHEESE,"Ahold USA, Inc. ",Branded,Cheese,71.0,10.6,0.88,5.31,,0.0,363.0,9.0,0.88,0.149
+1920216,COTTAGE CHEESE,"Ahold USA, Inc. ",Branded,Cheese,80.0,14.2,0.88,3.54,,0.0,53.0,9.0,0.88,0.177
+2117008,COTTAGE CHEESE,Berkeley Farms Inc.,Branded,Cheese,88.0,13.3,2.21,3.54,,0.0,319.0,13.0,1.33,0.151
+2117063,COTTAGE CHEESE,Anderson Dairy Inc,Branded,Cheese,80.0,12.4,1.77,3.54,,0.0,336.0,4.0,1.33,0.155
+1047855,COTTAGE CHEESE,LALA U.S. INC,Branded,Cheese,97.0,10.6,4.42,3.54,,0.0,425.0,18.0,3.1,0.109
+2025330,COTTAGE CHEESE,Dutch Farms Inc.,Branded,Cheese,97.0,11.5,3.54,3.54,,0.0,336.0,27.0,2.65,0.119
+2121377,COTTAGE CHEESE,Bashas' Markets,Branded,Cheese,100.0,11.8,4.09,4.55,,0.0,336.0,18.0,2.73,0.118
+2071672,COTTAGE CHEESE,"Land O'Lakes, Inc.",Branded,Cheese,97.0,10.6,4.42,4.42,,0.0,363.0,22.0,2.65,0.109
+2071673,COTTAGE CHEESE,"Land O'Lakes, Inc.",Branded,Cheese,97.0,10.6,4.42,4.42,,0.0,381.0,22.0,2.65,0.109
+2485706,COTTAGE CHEESE,"Ahold USA, Inc. ",Branded,Cheese,80.0,12.4,2.21,3.54,,0.0,345.0,13.0,1.33,0.155
+2617239,COTTAGE CHEESE,McIlhenny Company,Branded,Cheese,106.0,10.6,4.42,4.42,,0.0,425.0,22.0,3.1,0.1
+2068771,TUNA,Island Lobster Ltd,Branded,Frozen Fish & Seafood,94.0,5.66,3.77,10.4,,0.9,443.0,5.0,0.47,0.06
+2706311,"Fish, tuna, canned",N/A,Survey (FNDDS),Fish,85.0,19.0,0.94,0.08,,0.0,219.0,36.0,0.224,0.224
+2706310,"Fish, tuna, cooked",N/A,Survey (FNDDS),Fish,176.0,30.31,5.14,0.01,,0.0,271.0,52.0,1.4,0.172
+2706309,"Fish, tuna, NFS",N/A,Survey (FNDDS),Fish,85.0,19.0,0.94,0.08,,0.0,219.0,36.0,0.224,0.224
+2706308,"Fish, tuna, raw",N/A,Survey (FNDDS),Fish,109.0,24.4,0.49,0.0,,0.0,45.0,39.0,0.172,0.224
+2708965,Sushi roll tuna,N/A,Survey (FNDDS),"Egg rolls, dumplings, sushi",97.0,7.4,0.26,15.3,,0.7,342.0,10.0,0.069,0.076
+2708971,"Sushi, topped with tuna",N/A,Survey (FNDDS),"Egg rolls, dumplings, sushi",100.0,9.66,0.29,13.39,,0.6,306.0,14.0,0.083,0.097
+2706560,Tuna cake or patty,N/A,Survey (FNDDS),Seafood mixed dishes,206.0,15.33,14.92,2.65,,0.2,372.0,71.0,2.446,0.074
+2706839,Tuna salad with cheese,N/A,Survey (FNDDS),Seafood mixed dishes,214.0,11.33,17.58,2.85,,0.4,440.0,34.0,4.11,0.053
+2706840,Tuna salad with egg,N/A,Survey (FNDDS),Seafood mixed dishes,190.0,10.28,15.4,2.74,,0.4,393.0,56.0,2.583,0.054
+2708817,Macaroni or noodles with cheese and tuna,N/A,Survey (FNDDS),Macaroni and cheese,164.0,7.59,6.79,18.23,,0.8,176.0,19.0,2.682,0.046
+2707034,Tuna salad sandwich on white,N/A,Survey (FNDDS),Seafood sandwiches,218.0,9.86,11.76,18.33,,1.0,429.0,18.0,1.954,0.045
+2707038,Tuna salad sandwich wrap,N/A,Survey (FNDDS),Seafood sandwiches,244.0,10.59,14.82,16.99,,1.3,564.0,25.0,4.085,0.043
+2707036,Tuna salad sandwich on wheat,N/A,Survey (FNDDS),Seafood sandwiches,217.0,10.52,11.89,17.07,,2.1,425.0,18.0,1.92,0.048
+2708942,Macaroni or pasta salad with tuna,N/A,Survey (FNDDS),"Pasta mixed dishes, excludes macaroni and cheese",200.0,6.69,9.9,20.88,,1.2,206.0,11.0,1.579,0.033
+2706572,Tuna and rice with mushroom sauce,N/A,Survey (FNDDS),Seafood mixed dishes,128.0,4.57,5.17,15.39,,0.4,298.0,6.0,0.883,0.036
+2706828,"Tuna salad, made with mayonnaise",N/A,Survey (FNDDS),Seafood mixed dishes,194.0,10.07,15.84,2.89,,0.4,418.0,27.0,2.52,0.052
+2706450,Tuna with cream or white sauce,N/A,Survey (FNDDS),Seafood mixed dishes,102.0,14.42,3.71,2.81,,0.0,327.0,32.0,1.557,0.141
+2707035,"Tuna salad sandwich on white, with cheese",N/A,Survey (FNDDS),Seafood sandwiches,233.0,10.96,13.5,16.94,,0.9,489.0,25.0,3.457,0.047
+2708929,"Macaroni or noodles, creamed, with cheese and tuna",N/A,Survey (FNDDS),Macaroni and cheese,143.0,7.85,4.52,17.35,,1.0,252.0,19.0,2.31,0.055
+2707037,"Tuna salad sandwich on wheat, with cheese",N/A,Survey (FNDDS),Seafood sandwiches,232.0,11.55,13.62,15.81,,1.9,486.0,25.0,3.427,0.05
+2708945,Macaroni or pasta salad with tuna and egg,N/A,Survey (FNDDS),"Pasta mixed dishes, excludes macaroni and cheese",197.0,7.14,9.96,19.36,,1.1,200.0,39.0,1.709,0.036
+2708810,"Macaroni with tuna, Puerto Rican style",N/A,Survey (FNDDS),"Pasta mixed dishes, excludes macaroni and cheese",147.0,7.71,4.74,18.13,,0.9,359.0,10.0,1.202,0.052
+2706571,Tuna noodle casserole with mushroom sauce,N/A,Survey (FNDDS),Seafood mixed dishes,139.0,9.02,5.18,13.92,,0.8,328.0,28.0,1.901,0.065
+2706832,"Tuna salad, made with creamy dressing",N/A,Survey (FNDDS),Seafood mixed dishes,148.0,9.98,10.29,4.02,,0.4,460.0,24.0,1.65,0.067
+2706834,"Tuna salad, made with Italian dressing",N/A,Survey (FNDDS),Seafood mixed dishes,106.0,9.83,5.08,5.35,,0.4,498.0,18.0,0.76,0.093
+2706829,"Tuna salad, made with light mayonnaise",N/A,Survey (FNDDS),Seafood mixed dishes,106.0,9.78,5.4,4.75,,0.4,464.0,22.0,0.879,0.092
+2706570,Tuna noodle casserole with cream or white sauce,N/A,Survey (FNDDS),Seafood mixed dishes,168.0,10.12,7.3,15.41,,0.7,249.0,37.0,3.262,0.06
+2706447,"Fish with cream or white sauce, not tuna or lobster",N/A,Survey (FNDDS),Seafood mixed dishes,116.0,17.05,3.64,2.75,,0.0,343.0,45.0,1.513,0.147
+2706858,"Tuna casserole with vegetables and mushroom sauce, no noodles",N/A,Survey (FNDDS),Seafood mixed dishes,115.0,9.04,5.12,8.39,,0.9,364.0,21.0,1.98,0.079
+2706718,Tuna noodle casserole with vegetables and mushroom sauce,N/A,Survey (FNDDS),Seafood mixed dishes,124.0,8.11,4.46,12.96,,1.0,280.0,24.0,1.626,0.065
+2706833,"Tuna salad, made with light creamy dressing",N/A,Survey (FNDDS),Seafood mixed dishes,78.0,9.82,1.16,7.38,,0.4,488.0,18.0,0.239,0.126
+2706835,"Tuna salad, made with light Italian dressing",N/A,Survey (FNDDS),Seafood mixed dishes,76.0,9.78,2.0,4.91,,0.4,478.0,18.0,0.307,0.129
+2706714,"Tuna noodle casserole with vegetables, cream or white sauce",N/A,Survey (FNDDS),Seafood mixed dishes,149.0,8.99,6.22,14.16,,0.9,211.0,31.0,2.764,0.06
+2706830,"Tuna salad, made with mayonnaise-type salad dressing",N/A,Survey (FNDDS),Seafood mixed dishes,108.0,9.88,5.19,5.92,,0.4,425.0,22.0,0.857,0.091
+2706836,"Tuna salad, made with any type of fat free dressing",N/A,Survey (FNDDS),Seafood mixed dishes,72.0,9.6,1.15,6.25,,0.8,460.0,20.0,0.261,0.133
+2706831,"Tuna salad, made with light mayonnaise-type salad dressing",N/A,Survey (FNDDS),Seafood mixed dishes,106.0,9.78,5.4,4.75,,0.4,464.0,22.0,0.879,0.092
+2525486,"TUNA POKE, TUNA","Genji, Inc.",Branded,Other Deli,152.0,5.05,1.52,29.0,,0.3,663.0,7.0,0.0,0.033
+2196012,"TUNA ROLL, TUNA",K-9 Tag Company,Branded,Sushi,141.0,,3.4,21.8,,1.0,519.0,7.0,0.24,
+2486882,"TUNA SALAD, TUNA","Hearthside USA, LLC",Branded,Deli Salads,240.0,13.0,19.0,3.0,,0.0,500.0,25.0,3.0,0.054
+2390914,"TUNA SALAD, TUNA",Hannaford Bros. Co.,Branded,Deli Salads,290.0,11.0,25.0,5.0,,0.0,37.0,35.0,3.5,0.038
+2656911,"TUNA SALAD, TUNA",Target Stores,Branded,Deli Salads,390.0,10.0,37.0,6.0,,2.0,350.0,70.0,6.0,0.026
+2468759,"TUNA SALAD, TUNA","Bumble Bee Foods, LLC",Branded,Canned Tuna,80.0,12.0,0.5,7.0,,1.0,470.0,25.0,0.0,0.15
+2150070,"TUNA SALAD, TUNA",Price Chopper Supermarkets,Branded,Deli Salads,270.0,14.0,20.0,9.0,,0.0,450.0,40.0,3.5,0.052
+2552808,"TUNA SALAD, TUNA","Reser's Fine Foods, Inc.",Branded,Deli Salads,259.0,10.6,21.2,8.24,,0.0,518.0,29.0,3.53,0.041
+2487098,"TUNA SALAD, TUNA","Packer Avenue Foods, Inc.",Branded,Deli Salads,239.0,7.96,22.1,6.19,,0.9,504.0,22.0,3.54,0.033
+2179768,"TUNA SALAD, TUNA",Wells Select,Branded,Deli Salads,192.0,16.2,12.1,3.03,,1.0,414.0,30.0,1.01,0.084
+2385457,"TUNA SALAD, TUNA","Delhaize America, Inc.",Branded,Deli Salads,300.0,11.0,26.0,6.0,,0.0,500.0,20.0,4.0,0.037
+1931715,"TUNA SALAD, TUNA","B. Robert's Foods, Inc.",Branded,Deli Salads,247.0,15.3,16.5,7.06,,0.0,518.0,24.0,2.35,0.062
+2592859,"TUNA SALAD, TUNA",Wawa Incorporated,Branded,Deli Salads,266.0,10.9,21.9,7.03,,0.8,422.0,31.0,1.95,0.041
