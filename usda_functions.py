@@ -1,4 +1,6 @@
-# defining function to fetch food data from USDA FoodData Central API
+'''
+defining function to fetch food data from USDA FoodData Central API
+'''
 # query is the search term
 #max_results is max num of food items to return, defaulted to 60
 def fetch_category(query, max_results=60):
@@ -36,7 +38,9 @@ def fetch_category(query, max_results=60):
   time.sleep(0.5)
   return all_foods
 
-# defining function that extracts nutritional info from food item
+'''
+defining function that extracts nutritional info from food item
+'''
 def extract_nutrients(food_item):
   nutrients_dict = {}
 
