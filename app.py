@@ -171,8 +171,8 @@ else:
 
     st.markdown("""
     ### how to use:
-    1. **select categories: choose which food types you want to analyze
-    2. **set filters: adjust minimum or maximum values for protein & calories
-    3. **search: click the search button to fetch data from USDA
-    4. **analyze: view top results, charts, and download data)
+    1. **select categories**: choose which food types you want to analyze
+    2. **set filters**: adjust minimum or maximum values for protein & calories
+    3. **search**: click the search button to fetch data from USDA
+    4. **analyze**: view top results, charts, and download data)
     """)
