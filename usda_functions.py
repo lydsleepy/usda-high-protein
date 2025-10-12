@@ -1,3 +1,10 @@
+api_key = "XeQbGEzwfYOQQ5XDA6EL5ZAyuZCcpYeTHv3coBxZ"
+base_url = "https://api.nal.usda.gov/fdc/v1/foods/search"
+
+import time
+import requests
+import pandas as pd
+
 '''
 defining function to fetch food data from USDA FoodData Central API
 '''
