@@ -13,7 +13,7 @@ from usda_functions import fetch_category, extract_nutrients
 
 # do NOT use ''' comments it will show up on the website
 
-st.set_page_config(page_title="Protein Analyzer", page_icon="🐱", layout="wide")
+st.set_page_config(page_title="Protein Analyzer", page_icon="assets/flexcat.png", layout="wide")
 st.title("Protein Analyzer")
 
 st.sidebar.header("Filters")
